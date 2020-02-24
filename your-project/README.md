@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
+# Energy Past and Future
 *Lorenzo Fabritius*
 
 *Data, 02.2020, Barcelona*
