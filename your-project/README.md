@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Energy Past and Future
+*Lorenzo Fabritius*
 
-*[Your Cohort, Campus & Date]*
+*Data, 02.2020, Barcelona*
 
 ## Content
 - [Project Description](#project-description)
@@ -13,26 +13,12 @@
 - [Organization](#organization)
 - [Links](#links)
 
-## Project Description
-Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
 
-## Questions & Hypotheses
-What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
-
-## Dataset
-What dataset (or datasets) did you use? What are the different sources you used (e.g. APIs, web scrapping, etc.)? Provide links to the data if available and describe the data briefly.
-
-## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
-
-## Organization
-How did you organize your work? Did you use any tools like a kanban board?
-
-What does your repository look like? Explain your folder and file structure.
+Please find all of the content descriptions in my Technical Paper. 
 
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/lorenzofabrit/Project-Week-5-Your-Own-Project)  
+[Slides](https://docs.google.com/presentation/d/16dOyrCK9h8Gb_5UBNURZkFY-MrAg5kc9l1AZ_OalDdo/edit#slide=id.g7e1371735c_0_90)  
+ 
